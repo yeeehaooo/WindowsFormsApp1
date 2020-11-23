@@ -68,7 +68,7 @@ namespace WindowsFormsApp1
                         break;
                     }
                 }
-                //如果我有這個品項
+                //如果我有這個品項 ok
                 if (check == true)
                 {
                     foreach (var order in result)
